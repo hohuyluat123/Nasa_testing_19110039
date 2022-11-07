@@ -1,2 +1,2 @@
 # Nasa_19110039
-để chạy code dùng lệnh npm run deploy
+để chạy code dùng lệnh "npm run deploy"
